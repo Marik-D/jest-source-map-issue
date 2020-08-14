@@ -1,10 +1,3 @@
-//
-// FOO
-//
-
-
-
-
 require('source-map-support').install()
 
 
