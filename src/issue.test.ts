@@ -3,7 +3,6 @@
 //
 
 
-import assert from 'assert'
 
 
 require('source-map-support').install()
@@ -14,6 +13,5 @@ require('source-map-support').install()
 
 
 test('test', () => {
-  assert(true)
   expect(false).toEqual(true)
 })
